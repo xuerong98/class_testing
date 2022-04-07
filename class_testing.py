@@ -12,3 +12,5 @@ i = 0
 for letter in my_list:
     i += 1
     print('The value at position', i, 'is', letter)
+
+#why there is no commemt
